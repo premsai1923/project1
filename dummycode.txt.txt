@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is file pushed from feature branch and edited from features
-=======
 this is file edited form git repo and from main
->>>>>>> 92278ee355aaa10a6c8a42983dc0bbc120327134
